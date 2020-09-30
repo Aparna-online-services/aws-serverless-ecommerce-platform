@@ -1,5 +1,6 @@
 AWS Serverless Ecommerce Platform
 =================================
+DEV Branch
 
 __Status__: _Work-in-progress. Please create issues or pull requests if you have ideas for improvement._
 
